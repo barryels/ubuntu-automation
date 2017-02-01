@@ -1,0 +1,1 @@
+keyboard.send_keys("var i = 0;<enter>for (i = 0; i < length; i++) {<enter><tab><enter>}<left><left>")

@@ -1,0 +1,1 @@
+system.exec_command("python ~/Projects/linux-automation-scripts/ResizeWindow/script.py 2")
