@@ -1,3 +1,5 @@
 keyboard.send_keys("<ctrl>+l")
-keyboard.send_keys("/home/barryels/")
+sleep(0.1)
+keyboard.send_keys("~")
+sleep(0.1)
 keyboard.send_keys("<enter>")
