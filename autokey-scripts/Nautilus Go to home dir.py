@@ -1,5 +1,0 @@
-keyboard.send_keys("<ctrl>+l")
-sleep(0.1)
-keyboard.send_keys("~")
-sleep(0.1)
-keyboard.send_keys("<enter>")
